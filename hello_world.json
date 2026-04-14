@@ -1,3 +1,3 @@
 {
-    "play": "(term, id) => {term.echo(\"Hello World!\")}"
+    "play": "{term.echo(\"Hello World!\")}"
 }
